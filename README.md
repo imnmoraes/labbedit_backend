@@ -1,4 +1,4 @@
-# LabEddit (Backend)
+# LabEddit IMNMORAES (Backend)
 
 Este é o repositório para o backend do LabEddit (IMNMORAES).
 O repositório do frontend está disponível [aqui](https://github.com/imnmoraes/labeddit_frontend)
